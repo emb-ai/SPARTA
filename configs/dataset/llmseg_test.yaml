@@ -1,0 +1,4 @@
+base_image_dir: dataset/llm-seg40k
+image_size: 1024
+
+val_dataset: llm|seg|40k|test

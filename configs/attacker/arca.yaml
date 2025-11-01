@@ -1,0 +1,12 @@
+defaults:
+  - _base_
+
+_target_: rtext.sentence_optimization.train.AttackerARCA
+
+dice_weight: 0.5
+bce_weight: 2
+sim_weight: 200
+perp_weight: 0.2
+
+num_iters: 1
+top_k: 16

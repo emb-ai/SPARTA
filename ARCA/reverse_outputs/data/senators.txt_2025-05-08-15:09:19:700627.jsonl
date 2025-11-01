@@ -1,0 +1,41 @@
+{"arca_batch_size": 32, "n_trials": 1, "arca_iters": 50, "prompt_length": 2, "save_every": 10, "device": "cuda", "lam_perp": 0.2, "label": "your-file-label", "model_id": "gpt2", "prompt_prefix": null, "inpt_tok_constraint": null, "output_tok_constraint": null, "top_k_input": 0, "top_k_output": 0, "autoprompt": false, "unigram_input_constraint": null, "unigram_output_constraint": null, "unigram_weight": 1, "opts_to_run": ["arca"], "gbda_initializations": 8, "gbda_iters": 100, "gbda_learning_rate": 0.1, "filename": "senators.txt", "max_num_examples": null, "output_length": 4, "pair_type": null, "batch_size": 32}
+{"output_target": " Dan Sullivan", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [9], "success_rate": 0.0, "n_output_toks": [2], "perplexity": [null]}}
+{"output_target": " Lisa Murkowski", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [7], "success_rate": 0.0, "n_output_toks": [3], "perplexity": [null]}}
+{"output_target": " Tommy Tuberville", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [7], "success_rate": 0.0, "n_output_toks": [4], "perplexity": [null]}}
+{"output_target": " Richard Shelby", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [2], "perplexity": [null]}}
+{"output_target": " John Boozman", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [3], "perplexity": [null]}}
+{"output_target": " Tom Cotton", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [2], "perplexity": [null]}}
+{"output_target": " Kyrsten Sinema", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [7], "success_rate": 0.0, "n_output_toks": [5], "perplexity": [null]}}
+{"output_target": " Mark Kelly", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [2], "perplexity": [null]}}
+{"output_target": " Dianne Feinstein", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [2], "perplexity": [null]}}
+{"output_target": " Alex Padilla", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [7], "success_rate": 0.0, "n_output_toks": [3], "perplexity": [null]}}
+{"output_target": " John Hickenlooper", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [5], "perplexity": [null]}}
+{"output_target": " Michael Bennet", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [3], "perplexity": [null]}}
+{"output_target": " Chris Murphy", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [5], "success_rate": 0.0, "n_output_toks": [2], "perplexity": [null]}}
+{"output_target": " Dick Blumenthal", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [2], "perplexity": [null]}}
+{"output_target": " Chris Coons", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [3], "perplexity": [null]}}
+{"output_target": " Tom Carper", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [7], "success_rate": 0.0, "n_output_toks": [3], "perplexity": [null]}}
+{"output_target": " Rick Scott", "arca": {"prompts": ["Florida Governor"], "prompt_toks": [[31135, 10807]], "iters": [3], "time": [0], "success_rate": 1.0, "n_output_toks": [2], "perplexity": [9.131458282470703]}}
+{"output_target": " Marco Rubio", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [2], "perplexity": [null]}}
+{"output_target": " Jon Ossoff", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [7], "success_rate": 0.0, "n_output_toks": [4], "perplexity": [null]}}
+{"output_target": " Raphael Warnock", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [3], "perplexity": [null]}}
+{"output_target": " Brian Schatz", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [3], "perplexity": [null]}}
+{"output_target": " Mazie Hirono", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [7], "success_rate": 0.0, "n_output_toks": [5], "perplexity": [null]}}
+{"output_target": " Chuck Grassley", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [2], "perplexity": [null]}}
+{"output_target": " Joni Ernst", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [3], "perplexity": [null]}}
+{"output_target": " Jim Risch", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [3], "perplexity": [null]}}
+{"output_target": " Mike Crapo", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [4], "perplexity": [null]}}
+{"output_target": " Dick Durbin", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [7], "success_rate": 0.0, "n_output_toks": [4], "perplexity": [null]}}
+{"output_target": " Tammy Duckworth", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [3], "perplexity": [null]}}
+{"output_target": " Mike Braun", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [2], "perplexity": [null]}}
+{"output_target": " Todd Young", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [2], "perplexity": [null]}}
+{"output_target": " Jerry Moran", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [2], "perplexity": [null]}}
+{"output_target": " Roger Marshall", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [2], "perplexity": [null]}}
+{"output_target": " Mitch McConnell", "arca": {"prompts": ["Senate Leader"], "prompt_toks": [[32998, 10540]], "iters": [7], "time": [1], "success_rate": 1.0, "n_output_toks": [2], "perplexity": [9.804933547973633]}}
+{"output_target": " Rand Paul", "arca": {"prompts": [" pundits Senator"], "prompt_toks": [[30855, 8962]], "iters": [1], "time": [0], "success_rate": 1.0, "n_output_toks": [2], "perplexity": [11.688032150268555]}}
+{"output_target": " Bill Cassidy", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [2], "perplexity": [null]}}
+{"output_target": " John Kennedy", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [2], "perplexity": [null]}}
+{"output_target": " Ed Markey", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [3], "perplexity": [null]}}
+{"output_target": " Elizabeth Warren", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [2], "perplexity": [null]}}
+{"output_target": " Ben Cardin", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [3], "perplexity": [null]}}
+{"output_target": " Chris Van Hollen", "arca": {"prompts": [null], "prompt_toks": [-1], "iters": [-1], "time": [6], "success_rate": 0.0, "n_output_toks": [4], "perplexity": [null]}}

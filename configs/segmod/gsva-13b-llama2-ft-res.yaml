@@ -1,0 +1,33 @@
+pretrained_model_name_or_path: liuhaotian/llava-llama-2-13b-chat-lightning-preview
+weight: ./pretrained_weights/GSVA/gsva-llama2-13b-ft-res.bin
+name: gsva-llama2-13b-ft-res
+
+dataset_class: lisa.utils.dataset.ValDataset
+conv_type: llava_v1
+
+# seg model keys
+out_dim: 256
+ce_loss_weight: 1.0
+dice_loss_weight: 0.5
+bce_loss_weight: 2.0
+seg_token_idx: !!null
+vision_tower: openai/clip-vit-large-patch14
+segmentation_model_path: ./pretrained_weights/SAM/sam_vit_h_4b8939.pth
+use_mm_start_end: True
+low_cpu_mem_usage: True
+num_image_tokens: 256
+precision: fp32
+train_mask_decoder: True
+
+# tokenizer keys
+model_max_length: 1024
+padding_side: right
+use_fast: False
+cache_dir: !!null
+legacy: True
+
+# lora keys
+lora_r: 64
+lora_alpha: 16
+lora_dropout: 0.05
+lora_target_modules: q_proj,v_proj

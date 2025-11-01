@@ -1,0 +1,18 @@
+defaults:
+  - _base_
+
+_target_: rtext.sentence_optimization.train.AttackerSonarPerplexityNewMT
+
+lr: 5e-4
+temperature: 1.0
+
+dice_weight: 0.5
+bce_weight: 2
+sim_weight: 0
+perp_weight: 0
+entropy_weight: 0 #1
+sense_weight: 0
+
+num_iters: 30
+
+crop_attack: False

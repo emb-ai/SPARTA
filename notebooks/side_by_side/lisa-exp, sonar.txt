@@ -1,0 +1,138 @@
+orig:	0.25	In homes, perishable foods are often stored in low-temperature appliances to prevent spoilage. What object in a home is mostly adapted for this purpose?
+adv: 	0.13	In homes, perishable foods are often stored in low-temperature appliances to prevent spoiling. What object in a home is especially adapted for this purpose?
+
+orig:	0.27	When navigating through a new city, it's important to pay attention to the signs along the road. What objects in the picture can provide useful information and directions for drivers and pedestrians?
+adv: 	0.18	When you are traveling in a new city, it is important to pay attention to signs along the road. What objects in the picture can give useful information and directions for drivers and pedestrians?
+
+orig:	0.44	During a solar eclipse, the Moon passes between the Earth and the Sun, blocking the sunlight. What object in the picture can be responsible for creating the shadow and causing the eclipse?
+adv: 	0.31	During an eclipse of the sun, the Moon passes between the Earth and the sun, blocking the sunlight. What object in the picture can be responsible for creating the shadow and causing the eclipse?
+
+orig:	0.15	After changing clothes, what type of object can we use as a container to collect dirty clothes?
+adv: 	0.11	After changing clothes, what kind of object can we use as a container to collect dirty clothes?
+
+orig:	0.88	In cold weather, dogs may need extra protection to keep them warm. What object in the picture can a dog wear to provide warmth during snowy walks?
+adv: 	0.76	During the cold season, dogs may need extra protection to keep warm. What item on the picture can a dog wear to keep warm during snowy walks?
+
+orig:	0.39	Pure black coffee can be too bitter to drink, so people often add sugar to it to sweeten the taste. What tool in this image can be used to add sugar to coffee and stir it?
+adv: 	0.34	Pure black coffee can be too bitter to drink, so people often add sugar to sweeten the taste. What tool in this picture can you use to mix sugar into coffee and stir it?
+
+orig:	0.65	If the character in the picture is a wizard from the Harry Potter world, what would he ride on to fly in the air?
+adv: 	0.57	If the character in the picture is a wizard from the world of Harry Potter, what would he ride to fly in the air?
+
+orig:	0.90	Which device in a room can print out material and put hard copies of documents in the hands of viewers?
+adv: 	0.83	Which device in a room can print out material and put hard copies of documents into the hands of viewers?
+
+orig:	0.30	something that can protect the persons' heads
+adv: 	0.28	something that can protect people's heads
+
+orig:	0.13	Wolverine's body parts used for attacking enemies
+adv: 	0.13	Wolverine's body parts used for attacking enemies
+
+orig:	0.25	In a classroom setting, students often use electronic devices to assist their learning. What object in the picture could provide visual information and display educational content?
+adv: 	0.24	In classroom setting, students often use electronic devices to aid their learning. What object in the picture could provide visual information and display educational content?
+
+orig:	0.47	the body part used to receive visual signals
+adv: 	0.44	the body part used to receive visual signals
+
+orig:	0.47	the person who is pushing the baby carriage
+adv: 	0.45	the person who is pushing the baby carriage
+
+orig:	0.24	One of the things people value in a bed is its comfort. What object can help support the neck and improve the overall comfort of sleep?
+adv: 	0.23	One thing people value in a bed is its comfort. What object can support the neck and improve overall sleep comfort?
+
+orig:	0.52	What part of the plant in the picture is typically harvested for its edible seeds?
+adv: 	0.50	What part of the plant in the picture is typically harvested for its edible seeds?
+
+orig:	0.21	In many cultures, a quilt with a star pattern is considered a significant symbol. What can be seen in the picture that represents this symbol?
+adv: 	0.21	In many cultures, a quilt with a star pattern is considered a significant symbol; what is seen in the picture that represents this symbol?
+
+orig:	0.82	Creating visual representations of military equipment can be an interesting art form. What object in the picture could be a subject for a doodle or drawing related to the military?
+adv: 	0.79	Creating visual representations of military equipment can be an interesting art form. What object in the picture could be a subject for a doodle or drawing related to the military?
+
+orig:	0.14	the engines for this plane
+adv: 	0.13	the engines for this plane
+
+orig:	0.44	What object in the picture is the most suitable for placing food on and enjoying a meal?
+adv: 	0.43	What object in the picture is most suitable for placing food on and enjoying a meal?
+
+orig:	0.76	What structure in the room allows people to observe outdoor scenery while sitting?
+adv: 	0.74	What structure in the room allows people to observe outdoor scenery while sitting?
+
+orig:	0.27	When reading at night, what object can be used to provide sufficient lighting for the book?
+adv: 	0.27	When reading at night, what object can be used to provide sufficient light for the book?
+
+orig:	0.89	What object typically provides a flat and stable surface for people to place cups, plates, or books in a living room?
+adv: 	0.87	What object usually provides a flat and stable surface for people to place cups, plates, or books in a living room?
+
+orig:	0.20	Imagine we are attending a car show featuring various automobile models. What object in the picture could provide shade and protection from the sun during the event?
+adv: 	0.20	Supposing we are attending a car show with various car models on display. What object in the picture could provide shade and protection from the sun during the show?
+
+orig:	0.42	something similar to human face
+adv: 	0.41	Something similar to human face.
+
+orig:	0.38	the doughnuts with "eyes"
+adv: 	0.38	The doughnuts with "eyes"
+
+orig:	0.17	When cooking, it is important to cover the pot tightly to ensure that the food is cooked evenly. What object in the picture can be used to cover the pot?
+adv: 	0.17	When you are cooking, it is important to cover the pot tightly to ensure that food is cooking uniformly. What item in this picture can be used to cover the pot?
+
+orig:	0.35	In the wild, animals often exhibit specific behaviors and adaptations that help them survive in their natural habitats. What part of the animal in the picture can be used for defense and aggression?
+adv: 	0.34	In the wild, animals often show specific behaviors and adaptations that help them survive in their natural habitat. Which part of the animal in the picture can be used for defense and aggression?
+
+orig:	0.33	If we were standing on the shore across the water from the location in the picture, what structure would we see stretching across the water?
+adv: 	0.33	If we were standing on the shore across the water from the location in the picture, what structure would we see stretching across the water?
+
+orig:	0.73	During festive occasions or religious ceremonies, it is common to see symbolic representations or idols of deities being worshiped. What objects in the picture could be used as idols or representations of deities?
+adv: 	0.73	During festious times or during religious ceremonies, it is common to see symbolic representations or idols of gods being worshiped. What items in the picture could be used as idols or representations of gods?
+
+orig:	0.93	Some people enjoy having a view of the outside world while still being comfortable inside their homes. What part of the house in the picture can provide such an experience?
+adv: 	0.93	Some people like to enjoy views of the outside world while still being comfortable in their homes. What part of the house in the picture can provide such an experience?
+
+orig:	0.79	the places where people can sit
+adv: 	0.79	The places where people can sit
+
+orig:	0.83	When looking at a building, we can often see the surrounding environment reflected in the windows. What specific part in the picture can provide us with this reflection?
+adv: 	0.83	When looking at a building, we often see the surrounding environment reflected by the windows. Which specific part of the picture can give us this reflection?
+
+orig:	0.98	When objects are left in water for a long time, they can often deteriorate or be damaged. What in the picture is an example of an object that has been affected by this process?
+adv: 	0.98	When things are left in water for a long time, they can often deteriorate or become damaged. What in the picture is an example of a thing that has been affected by this process?
+
+orig:	0.67	In horse riding, it is important to have control and direction over the horse. What object in the picture is used to guide and control the horse's movements?
+adv: 	0.67	In horse riding, it is important to have control and direction over the horse. What object in the picture is used to guide and control the horse's movements?
+
+orig:	0.96	the real person
+adv: 	0.96	The real person
+
+orig:	0.86	When walking around a college campus, there are multiple buildings to navigate through. What part of the picture is generally used by pedestrians to move from one area to another?
+adv: 	0.86	While walking around a college campus, there are many buildings to navigate through. Which part of the picture is generally used by pedestrians to move from one area to another?
+
+orig:	0.94	To decorate the interior environment of a room, what can we place in the corner or on the floor to bring life to the space?
+adv: 	0.94	To decorate the interior environment of a room, what can we put in the corner or on the floor to bring life to the space?
+
+orig:	0.98	If we want to carefully examine the small details of an object, what tool in the picture can help us achieve that?
+adv: 	0.98	If we want to carefully examine the small details of an object, what tool on the picture can help us do that?
+
+orig:	0.95	In the winter, when the temperature drops and the snow covers the landscape, what type of structure in the picture can provide shelter and protection from the cold weather?
+adv: 	0.95	In winter, when the temperature falls and snow covers the landscape, what type of structure in the picture can provide shelter and protection from the cold weather?
+
+orig:	0.49	the object that helps people safely land from high altitude
+adv: 	0.49	the object that helps people safely land from high altitude
+
+orig:	0.87	In medieval battles, warriors often used a long, sharp object to attack their enemies. What object in the picture would be classified as this type of weapon?
+adv: 	0.87	In medieval battles, warriors often used a long, sharp object to attack their enemies. What object in the picture could be classified as this kind of weapon?
+
+orig:	0.59	What part of the plant in the picture is primarily responsible for supporting the flowers and leaves and transporting nutrients from the roots to other parts of the plant?
+adv: 	0.59	What part of the plant in the picture is primarily responsible for supporting the flowers and leaves and transporting nutrients from the roots to other parts of the plant?
+
+orig:	0.65	What object in the picture can be used to keep precious memories in the form of photographs and paintings?
+adv: 	0.65	Which object in the picture can be used to keep precious memories in the form of photographs and paintings?
+
+orig:	0.96	When driving a car, there is usually a specific place in the front of the car where a symbol or logo can be seen. What part of the car in the picture usually displays this symbol or logo?
+adv: 	0.96	When driving a car, there is usually a specific place in the front of the car where a symbol or logo can be seen. Which part of the car in the picture usually shows this symbol or logo?
+
+orig:	0.90	someone with bare arms
+adv: 	0.90	somebody with bare arms
+
+orig:	0.98	In some religious or cultural practices, people may gather in a specific place to perform rituals or prayers. What location in the picture could be associated with such activities?
+adv: 	0.98	In some religious or cultural practices, people may gather in a specific place to perform rituals or prayers. What place on the picture may be associated with such activities?
+

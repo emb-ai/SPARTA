@@ -1,0 +1,9 @@
+defaults:
+  - _base_
+
+_target_: rtext.sentence_optimization.train.AttackerBlackBox
+
+llm_model_name: "google/flan-ul2"
+paraphrase_max_length: 128
+
+num_iters: 1

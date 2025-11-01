@@ -1,0 +1,20 @@
+defaults:
+  - _base_
+
+_target_: rtext.sentence_optimization.train.AttackerGumbelTarget
+
+lr: 0.05
+temperature: 1.0
+
+dice_weight: 0.5
+bce_weight: 2
+sim_weight: 0 # 150
+perp_weight: 0 # 1
+
+num_iters: 400
+num_samples: 1
+
+crop_attack: False
+
+use_external_mask: True
+external_masks_dir: "sam_least_masks"

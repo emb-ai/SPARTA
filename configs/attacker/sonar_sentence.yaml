@@ -1,0 +1,19 @@
+defaults:
+  - _base_
+
+_target_: rtext.sentence_optimization.train.AttackerSonarSentence
+
+lr: 0.005
+temperature: 1.0
+
+adv_weight: 0
+sim_weight: 0
+sense_weight: 0
+perp_weight: 0
+
+num_iters: 1000
+
+source_sentence: "city of the future"
+target_sentence: "boy with beautiful dog"
+
+min_len: 4

@@ -1,0 +1,135 @@
+orig:	0.91	In a high-energy sporting event, the audience often cheers for the athletes to show their support and excitement. What object or area in the picture could the spectators be directing their cheers towards?
+adv: 	0.01	In a high-energy sporting event, the audience often cheers for the athletes to show their support and excitement. What object or building in the picture could the spectators be directing their cheers towards?
+
+orig:	0.40	What structure in this room can be used to prevent light from outside the window shining directly on the bed?
+adv: 	0.00	What elements in the room can be used to prevent light from outside the window shining directly onto the bed?
+
+orig:	0.32	Sitting in a chair for too long can cause fatigue and soreness, so many people choose to lie down and stretch out on something soft. What object in a room is most suitable for this?
+adv: 	0.01	Sitting in a chair for too long could cause fatigue and soreness, so many people choose to lay down and stretch out on something soft. What object in a room is most suitable for this purpose
+
+orig:	0.63	What object in the picture can be used to keep precious memories in the form of photographs and paintings?
+adv: 	0.13	What object in the picture can be used to house precious memories in the form of photographs and paintings?
+
+orig:	0.20	People usually wash their hands after using the restroom. What object in the picture provides water for hand washing?
+adv: 	0.09	People usually wash their hands after using the restroom. What object in the image provides this for hand washing?
+
+orig:	0.81	In modern cities, power cables are usually installed overhead to supply electricity to buildings. What part of the picture is likely to be used to support these power cables?
+adv: 	0.44	In modern cities, power cables are usually installed overhead to supply electricity to buildings. What part of the image is likely to be used to support these power cables?
+
+orig:	0.67	What kind of object can be opened and closed to connect different rooms and allow people to easily get in and out?
+adv: 	0.38	What kind of object can be opened and closed to connect different rooms and allow people to easily get in and out of
+
+orig:	0.22	In the evening, what can be turned on in the living room to save electricity and reduce the impact on the eyes while ensuring sufficient lighting?
+adv: 	0.13	In the evening, what could be turned on in the living room to save electricity and reduce the impact on the eyes while ensuring sufficient lighting?
+
+orig:	0.35	One of the things people value in a bed is its comfort. What object can help support the neck and improve the overall comfort of sleep?
+adv: 	0.22	One of the things people value in a bed is its comfort. What element can help support the neck and improve the overall comfort of sleep?
+
+orig:	0.22	While rowing a boat, it is crucial to have synchrony and coordination among the members of the crew. What part of the boat is each member using to propel the boat forward?
+adv: 	0.16	While rowing a boat, it is crucial to maintain synchrony and coordination among the members of the crew. What part of the boat is each person using to propel the boat forward?
+
+orig:	0.72	What furniture in a room can provide illumination for people's reading or work at night?
+adv: 	0.55	What furniture in a room can provide illumination for people's reading or studying at night?
+
+orig:	0.52	What furniture is usually put next to a bed to hold things like books, lamps and phones?
+adv: 	0.41	What furniture is usually put next to a bed to hold objects like books, lamps and phones?
+
+orig:	0.21	Owls have excellent night vision, which allows them to see clearly in the dark. What part of their body is responsible for this ability?
+adv: 	0.17	Оwls have excellent night vision, which allows them to see clearly in the dark. What part of their body is responsible for this ability?
+
+orig:	0.79	It is currently very hot inside the room. What object can be used to adjust the indoor temperature to a comfortable level?
+adv: 	0.64	It is currently very hot inside the room. What items can be used to adjust the indoor temperature to a comfortable level?
+
+orig:	0.88	What object do we usually put on a table to make the room brighter?
+adv: 	0.72	What object do you usually put on a table to make the room brighter?
+
+orig:	0.66	In a fish market, it is important to provide clear information about the various types of seafood available for sale. What object in the picture can be used to display the names and prices of different fish?
+adv: 	0.55	In a fish market, it is important to provide clear information about the various types of seafood available for sale. What object in the picture can be used to display the kinds and prices of different fish?
+
+orig:	0.36	What in the picture can be used to secure a boat in place, preventing it from drifting away in the water?
+adv: 	0.31	What in the picture can be used to secure a boat in place, preventing it from drifting away on the water?
+
+orig:	0.42	In hazardous environments, protective gear is necessary to ensure personal safety. What protective item in the picture can help shield the face and eyes from harmful substances?
+adv: 	0.36	In hazardous environments, protective gear is necessary to ensure personal safety. What protective item in the picture can help shield the Face and eyes from harmful substances?
+
+orig:	0.71	Assuming this is a restaurant kitchen and the chef finds that there is not enough food, and needs to inform the restaurant staff promptly to notify the customers. Which device in the picture is the chef most likely to use for instant communication?
+adv: 	0.60	Assuming this is a restaurant kitchen and the chef finds that there is not enough food, he needs to inform the restaurant staff promptly to notify the customers. Which device in the picture is the chef most likely to use for instant communication?
+
+orig:	0.65	Maintaining a well-groomed lawn requires regular cutting of the grass. What object in the picture could be used for this task?
+adv: 	0.56	Maintaining a well-groomed lawn includes regular cutting of the grass. What object in the picture could be used for this task?
+
+orig:	0.16	When cooking, it is important to cover the pot tightly to ensure that the food is cooked evenly. What object in the picture can be used to cover the pot?
+adv: 	0.14	When cooking, it is important to cover the pot tightly to ensure that the food is cooked evenly and What covering in the image can be used to cover the pot?
+
+orig:	0.20	Backpacks are commonly used for carrying personal belongings during outdoor activities and travel. What part of the backpack in the picture can be used to store smaller items or accessories?
+adv: 	0.18	Backpack, are commonly used for carrying personal belongings during outdoor activities and travel. What part of the backpack in the picture can be used to store smaller items or accessories?
+
+orig:	0.56	In a baseball game, the pitcher throws the ball to the batter, who tries to hit it. What equipment does the batter use to hit the ball?
+adv: 	0.51	In a baseball game, the pitcher throws the ball to the batter, who tries to hit it. What equipment does the batter use to hit the ball?
+
+orig:	0.94	In the picture, what object is on the ground and known for its slithering movements?
+adv: 	0.87	In the picture, what object is the the ground and known for its slithering behavior?
+
+orig:	0.11	Pizza is a popular dish that is often shared and enjoyed with friends or family. Which part of the picture could be used to serve and present the pizza?
+adv: 	0.10	Pizza is a popular dish that is often shared and enjoyed with friends or family. Which part of the picture could be used to serve and provide the pizza?
+
+orig:	0.61	When presenting a gift to someone, it is common to wrap it in decorative paper or material. What in the picture can be used to wrap a gift?
+adv: 	0.58	When presenting a gift to someone, it is common to wrap it in decorative paper or material. What in the image can be used as wrap a gift?
+
+orig:	0.75	What do people use to input letters and commands when using a computer?
+adv: 	0.72	What do people use to input text and commands when using a computer?
+
+orig:	0.17	In a laboratory, scientists often wear a specific garment to protect their clothes and maintain cleanliness. What clothing item in the picture is commonly worn by scientists in the laboratory?
+adv: 	0.16	Within a laboratory, scientists often wear a specific garment to protect their clothes and maintain cleanliness. What clothing item in the picture is commonly worn by scientists in the laboratory setting
+
+orig:	0.93	When driving a car, it's important to keep an eye on the road and stay aware of the surroundings. What part of the car in the picture helps the driver see what is happening behind the vehicle?
+adv: 	0.90	When driving a car, it's important to keep an eye on the road and stay aware of the surroundings. What part of the car in the picture helps the driver see what' happening behind the vehicle?
+
+orig:	0.18	In many cultures, a quilt with a star pattern is considered a significant symbol. What can be seen in the picture that represents this symbol?
+adv: 	0.18	In many cultures, a quilt with a star pattern is considered a significant symbol. What can be seen in the image, represents this symbol?
+
+orig:	0.70	When visiting a park, it is common to find designated areas for relaxation and seating. What object in the picture could be used for sitting and resting?
+adv: 	0.69	When visiting a park, it is common to find designated areas for relaxation and seating. One object in the image could be used for sitting and resting in
+
+orig:	0.99	When traveling, people often need to store their belongings in a secure and organized manner. What object in the picture can be used for this purpose?
+adv: 	0.97	When traveling, people often need to protect their belongings in a secure and organized manner. What object in the image can be used for this purpose?
+
+orig:	0.91	In many Asian countries, chopsticks are commonly used as eating utensils. What in the picture may require the use of chopsticks to pick up and eat?
+adv: 	0.89	In many Asian countries, chopsticks are commonly used as eating utensils. What about the picture may require the use of chopsticks to pick up and eat?
+
+orig:	0.56	In modern times, what object do people often use to listen to the radio, keep track of time, and set alarms?
+adv: 	0.55	In modern times, what object can people often use to listen to the radio, keep track of time, and set alarms?
+
+orig:	0.95	Children often like to sleep with their favorite toys by their side. What object in the picture can be served as a child's favorite toy?
+adv: 	0.94	Children often like to sleep with their favorite toys by their side. What object in the image can be served as a child's companion toy?
+
+orig:	0.92	To decorate the interior environment of a room, what can we place in the corner or on the floor to bring life to the space?
+adv: 	0.91	To decorate the interior environment of a room, which can we place in the corner or on the floor to bring life to the space?
+
+orig:	0.89	When recording a video or giving a speech, it is important to ensure that the audio is clear and audible. What equipment in the picture can help achieve this?
+adv: 	0.88	When recording a video or giving a speech, it is important to ensure that the audio is captured and audible. What equipment in the picture can help achieve this?
+
+orig:	0.34	What part of the plant in the picture is typically harvested for its edible seeds?
+adv: 	0.34	What part of the plant in the picture is typically harvested for its edible seeds,
+
+orig:	0.88	In medieval battles, warriors often used a long, sharp object to attack their enemies. What object in the picture would be classified as this type of weapon?
+adv: 	0.87	During medieval battles, warriors often used a long, sharp object to attack their enemies. What object in the picture would be classified as this type of weapon?
+
+orig:	0.12	In a game of darts, what part of the dartboard should you aim for to maximize your points?
+adv: 	0.11	In the game of darts, what part of the dartboard should you aim for to maximize your points?
+
+orig:	0.93	During a brainstorming event, it is common to record and present ideas on what object is the whiteboard in the room?
+adv: 	0.93	During a brainstorming event, it is common to record and present ideas on what object is the whiteboard in the room.
+
+orig:	0.79	In the picture, there are various containers used to hold fruit. Which container would be most suitable for serving and holding sliced apples?
+adv: 	0.79	In the image, there are various containers used to hold fruit. which container would be most suitable for serving and holding sliced apples?
+
+orig:	0.93	the youngest person
+adv: 	0.93	The youngest person
+
+orig:	0.98	If we want to carefully examine the small details of an object, what tool in the picture can help us achieve that?
+adv: 	0.98	If we want to carefully examine the small details of the object, which tool in the picture can help us achieve that?
+
+orig:	0.73	Herbs and spices are commonly used to enhance the flavor of various dishes. What item in the picture could be used to hold and serve these herbs and spices?
+adv: 	0.73	Herbs and spices are commonly used to enhance the flavor of various dishes. What specifically in the picture could be used to hold and serve these herbs and spices?
+

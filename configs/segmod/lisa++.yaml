@@ -1,0 +1,25 @@
+pretrained_model_name_or_path: Senqiao/LISA_Plus_7b
+name: lisa++
+
+dataset_class: lisa.utils.dataset.ValDataset
+conv_type: llava_v1
+
+# seg model keys
+out_dim: 256
+ce_loss_weight: 1.0
+dice_loss_weight: 0.5
+bce_loss_weight: 2.0
+seg_token_idx: !!null
+vision_tower: openai/clip-vit-large-patch14-336
+use_mm_start_end: True
+low_cpu_mem_usage: False
+num_image_tokens: 576
+precision: fp16
+train_mask_decoder: True
+
+# tokenizer keys
+model_max_length: 4096
+padding_side: right
+use_fast: False
+cache_dir: !!null
+legacy: True

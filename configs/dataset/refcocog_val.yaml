@@ -1,0 +1,4 @@
+base_image_dir: dataset/refer_seg
+image_size: 1024
+
+val_dataset: refcocog|umd|val

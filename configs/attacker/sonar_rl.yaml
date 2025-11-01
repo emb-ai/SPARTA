@@ -1,0 +1,27 @@
+defaults:
+  - _base_
+
+_target_: rtext.sentence_optimization.train.AttackerSonarReinforceWithBaseline
+
+lr: 5e-4
+value_lr: 1e-4
+log_scale_lr: 1e-5
+temperature: 1.0
+attn_implementation: flash_attention_2
+
+
+adv_weight: 2
+sonar_perplexity_weight: 0.5
+
+noise_scale: 0.01
+sim_weight: 50000
+policy_update_interval: 10
+sample_size: 32
+compile: false
+clip_ratio: 0.2
+num_samples: 1
+
+num_iters: 100
+
+crop_attack: False
+first_part: False

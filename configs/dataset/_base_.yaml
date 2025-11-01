@@ -1,0 +1,2 @@
+base_image_dir: dataset
+image_size: 1024

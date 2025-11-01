@@ -1,0 +1,17 @@
+**/__pycache__
+runs/
+.vscode/
+
+notebooks
+dataset/
+saves/
+tmp_trainer/
+vec2text/
+examples
+exp*/
+**/*.png
+**/*.jpg
+**/*.pt
+imgs/*.json
+pretrained_weights/
+*/*.egg-info

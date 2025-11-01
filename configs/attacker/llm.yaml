@@ -1,0 +1,7 @@
+# llm.yaml
+defaults:
+  - _base_
+
+_target_: rtext.sentence_optimization.train.AttackerLLM
+adv_texts_path: "adv_texts_llmseg_qwen3_simple_paraphrase_100_samples.json"
+num_iters: 1

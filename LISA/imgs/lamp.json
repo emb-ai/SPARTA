@@ -1,0 +1,58 @@
+{
+  "text": [
+    "What furniture in a room can provide illumination for people's reading or studying at night?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "lamp.jpg",
+      "points": [
+        [
+          638.0,
+          764.0
+        ],
+        [
+          637.0,
+          771.0
+        ],
+        [
+          636.0,
+          780.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "flag",
+      "labels": [
+        "flag"
+      ],
+      "shape_type": "polygon",
+      "image_name": "burger.jpg",
+      "points": [
+        [
+          38.111111111111086,
+          122.48148148148141
+        ],
+        [
+          434.4074074074074,
+          311.3703703703702
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

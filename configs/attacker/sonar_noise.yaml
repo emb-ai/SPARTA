@@ -1,0 +1,16 @@
+defaults:
+  - _base_
+
+_target_: rtext.sentence_optimization.train.AttackerSonarNoise
+
+lr: 0.001
+temperature: 1.0
+
+dice_weight: 0.5
+bce_weight: 2
+sim_weight: 500
+perp_weight: 1
+
+num_iters: 50
+
+crop_attack: False

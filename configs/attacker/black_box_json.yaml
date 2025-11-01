@@ -1,0 +1,11 @@
+defaults:
+  - _base_
+
+_target_: rtext.sentence_optimization.train.AttackerBlackBoxFromJson
+
+paraphrases_path: baselines/qwen/qwen3_paraphrases_reason_test.json
+
+num_iters: 1
+
+use_external_mask: False
+external_masks_dir: None    # "sam_least_masks"

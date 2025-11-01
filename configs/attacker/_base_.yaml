@@ -1,0 +1,5 @@
+bert_layer_num: -1
+ref_weights: !!null
+
+prompt_handling: "remove"  # Options: "remove", "keep_part", "keep_all"
+null_mask: False
