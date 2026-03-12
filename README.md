@@ -4,7 +4,7 @@
 
 **Official Implementation of "SPARTA: Evaluating Reasoning Segmentation Robustness through Black-Box Adversarial Paraphrasing in Text Autoencoder Latent Space"**
 
-[![arXiv](https://img.shields.io/badge/arXiv-2211.22436-b31b1b.svg)](https://arxiv.org/abs/2510.24446)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.24446-b31b1b.svg)](https://arxiv.org/abs/2510.24446)
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-31016/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
